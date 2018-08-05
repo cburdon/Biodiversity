@@ -1,1 +1,1 @@
-"web: gunicorn Biodiversity.app:app"
+web: gunicorn Biodiversity.app:app
